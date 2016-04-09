@@ -29,6 +29,26 @@ function getNumberBackgroundColor( number ){
     return "black";
 }
 
+function getNumberText( number ){
+    switch( number ){
+        case 2:return "TayTay1";break;
+        case 4:return "霉霉2";break;
+        case 8:return "美霉3";break;
+        case 16:return "帅霉4";break;
+        case 32:return "可爱霉5";break;
+        case 64:return "长腿霉6";break;
+        case 128:return "平胸霉7";break;
+        case 256:return "铲屎霉8";break;
+        case 512:return "甩头霉9";break;
+        case 1024:return "神经霉10";break;
+        case 2048:return "霉超疯11";break;
+        case 4096:return "#a6c";break;
+        case 8192:return "#93c";break;
+    }
+
+    return "black";
+}
+
 function getNumberColor( number ){
     if( number <= 4 )
         return "#776e65";
