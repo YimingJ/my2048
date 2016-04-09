@@ -45,10 +45,10 @@ function getNumberText( number ){
         case 32:return "练习生兴5";break;
         case 64:return "exo兴6";break;
         case 128:return "工作室兴7";break;
-        case 256:return "张总兴8";break;
+        case 256:return "魂蛋8";break;
         case 512:return "演员兴9";break;
         case 1024:return "蛋蛋10";break;
-        case 2048:return "魂蛋11";break;
+        case 2048:return "张总兴11";break;
         case 4096:return "#a6c";break;
         case 8192:return "#93c";break;
     }

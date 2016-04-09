@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34b4ba27-4601-4ab0-8ebe-c7c532e86043" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2048.css" afterPath="$PROJECT_DIR$/2048.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main2048.js" afterPath="$PROJECT_DIR$/main2048.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/showanimation2048.js" afterPath="$PROJECT_DIR$/showanimation2048.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/support2048.js" afterPath="$PROJECT_DIR$/support2048.js" />
     </list>
     <ignored path="my2048.iws" />
@@ -39,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="support2048.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="support2048.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/support2048.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.4097117">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -69,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2048.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2048.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2048.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5511811">
+            <state vertical-scroll-proportion="-14.583333">
               <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
@@ -99,8 +95,8 @@
       <list>
         <option value="$PROJECT_DIR$/showanimation2048.js" />
         <option value="$PROJECT_DIR$/main2048.js" />
-        <option value="$PROJECT_DIR$/support2048.js" />
         <option value="$PROJECT_DIR$/2048.css" />
+        <option value="$PROJECT_DIR$/support2048.js" />
       </list>
     </option>
   </component>
@@ -263,12 +259,12 @@
       <created>1460193116866</created>
       <option name="number" value="Default" />
       <updated>1460193116866</updated>
-      <workItem from="1460193118853" duration="2004000" />
+      <workItem from="1460193118853" duration="2746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2004000" />
+    <option name="totallyTimeSpent" value="2746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="803" extended-state="6" />
@@ -314,14 +310,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/support2048.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/showanimation2048.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -340,8 +328,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2048.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5511811">
+        <state vertical-scroll-proportion="-14.583333">
           <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/support2048.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4097117">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
           <folding />
         </state>
       </provider>
