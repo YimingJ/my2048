@@ -36,6 +36,27 @@ function getNumberColor( number ){
     return "white";
 }
 
+function getNumberText( number ){
+    switch( number ){
+        case 2:return "小兴兴1";break;
+        case 4:return "兴兴陀2";break;
+        case 8:return "摩的兴3";break;
+        case 16:return "塑普兴4";break;
+        case 32:return "练习生兴5";break;
+        case 64:return "exo兴6";break;
+        case 128:return "工作室兴7";break;
+        case 256:return "张总兴8";break;
+        case 512:return "演员兴9";break;
+        case 1024:return "蛋蛋10";break;
+        case 2048:return "魂蛋11";break;
+        case 4096:return "#a6c";break;
+        case 8192:return "#93c";break;
+    }
+
+    return "black";
+}
+
+
 function nospace(board){
     for (var i = 0; i < 4; i++)
         for (var j = 0; j < 4; j++)

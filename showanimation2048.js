@@ -7,7 +7,7 @@ function showNumberWithAnimation( i , j , randNumber ){
 
     numberCell.css('background-color',getNumberBackgroundColor( randNumber ) );
     numberCell.css('color',getNumberColor( randNumber ) );
-    numberCell.text( randNumber );
+    numberCell.text( getNumberText(randNumber) );
 
     numberCell.animate({
         width:"100px",
