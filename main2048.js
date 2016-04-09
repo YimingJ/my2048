@@ -36,9 +36,8 @@ function init(){
     }
 
     updateBoardView();
-
-    score = 0;
     $('#score').text( score );
+    score = 0;
 }
 
 function updateBoardView(){
@@ -62,7 +61,7 @@ function updateBoardView(){
                 theNumberCell.css('left',getPosLeft(i,j));
                 theNumberCell.css('background-color',getNumberBackgroundColor( board[i][j] ) );
                 theNumberCell.css('color',getNumberColor( board[i][j] ) );
-                theNumberCell.text( getNumberText( board[i][j] ) );
+                theNumberCell.text( board[i][j] );
             }
 
             hasConflicted[i][j] = false;
