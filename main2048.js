@@ -34,10 +34,10 @@ function init(){
             hasConflicted[i][j] = false;
         }
     }
-
+    score = 0;
     updateBoardView();
     $('#score').text( score );
-    score = 0;
+
 }
 
 function updateBoardView(){
